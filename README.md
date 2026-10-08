@@ -30,8 +30,6 @@ lib/
 └── main.dart                # Interface principale, Scaffold, AppBar et rendu récursif
 test/
 └── widget_test.dart         # Suite de 7 tests unitaires et d'interface
-AI/
-└── compte_rendu_ai.md       # Compte-rendu d'assistance IA
 ```
 
 ## Lancer le Projet
